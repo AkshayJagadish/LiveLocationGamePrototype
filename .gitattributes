@@ -5,3 +5,4 @@
 *.dll filter=lfs diff=lfs merge=lfs -text
 *.apk filter=lfs diff=lfs merge=lfs -text
 C:/Users/Akshay[[:space:]]Jagadish/Desktop/Git/LiveLocationMultiplayerProrotype/LiveLocationGamePrototype/UoW[[:space:]]game/Library/metadata/0a/0ad6f20f99271564d93962d2b51bf9b0 filter=lfs diff=lfs merge=lfs -text
+C:/Users/Akshay[[:space:]]Jagadish/Desktop/Git/LiveLocationMultiplayerProrotype/LiveLocationGamePrototype/UoW[[:space:]]game filter=lfs diff=lfs merge=lfs -text
