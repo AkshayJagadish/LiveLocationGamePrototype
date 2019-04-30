@@ -11,4 +11,4 @@ View the demo at : https://www.youtube.com/watch?v=RR2KlSEll90&t=1s
 <img src="https://github.com/AkshayJagadish/LiveLocationGamePrototype/blob/master/Screenshot%20(110).png">
 
 <img src="https://github.com/AkshayJagadish/LiveLocationGamePrototype/blob/master/Screenshot%20(111).png">
-<img src="https://raw.githubusercontent.com/AkshayJagadish/LiveLocationGamePrototype/master/Screenshot%20(113).png?token=AK3JNMZJ7RRKMUNZA64WVQC4YIQKA">
+<img src="https://github.com/AkshayJagadish/LiveLocationGamePrototype/blob/master/Screenshot%20(113).png">
